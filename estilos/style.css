@@ -76,7 +76,10 @@ section#redes-sociais img:hover{
     
 }
 
-
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
 
 
 .block {
